@@ -38,3 +38,20 @@ This project compares the aerodynamic performance of two widely-used airfoils, *
 - 📁 Raw `.txt` polar data from XFOIL outputs
 
 ---
+
+
+---
+
+## 🧪 Future Work
+
+- Add flow visualizations (streamlines, pressure contours).
+- Extend to NACA 4412 and other airfoils.
+- Compare with experimental wind tunnel data.
+
+---
+
+## 📧 Author
+
+**Helin Hilda Uluğtürken**  
+Student Researcher | High School Aerospace Enthusiast  
+📍 İstanbul, Turkey  
