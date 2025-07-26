@@ -38,5 +38,3 @@ This project compares the aerodynamic performance of two widely-used airfoils, *
 - 📁 Raw `.txt` polar data from XFOIL outputs
 
 ---
-
-## 📂 Folder Structure
